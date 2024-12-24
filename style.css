@@ -1,0 +1,41 @@
+
+@font-face{
+    font-family: "huzzii";
+    src: url(./Playwrite_IE_Guides/PlaywriteIEGuides-Regular.ttf);
+}
+body {
+    /* font-family: "Noto Sans JP", serif;
+    font-family: "Playwrite IE Guides", serif;
+    font-family: "Monsieur La Doulaise", serif;
+    font-family: "Cookie", serif;
+    font-family: "Galada", serif; */
+    font-family: "huzzii";
+    background-image: linear-gradient(to right, #ff5f87, #db7bfe, #7847ff);
+    height: 100vh;
+    margin: 0;
+}
+h1 {
+    background-color: rgb(0, 0, 0, 0.8);
+    color: goldenrod;
+    opacity: 0.8;
+}
+
+.para1 {
+    color: aqua;
+}
+
+.para2 {
+    color: brown;
+}
+
+.para3 {
+    color: tomato;
+}
+
+.para4 {
+    color: cornflowerblue;
+}
+
+.para5 {
+    color: darkgoldenrod;
+}
